@@ -13,7 +13,7 @@ public class Http {
         
         try{
             String url = "http://api.openweathermap.org/data/2.5/weather?";
-            String appid = "xxx"; //COLAR API
+            String appid = "xxx"; //COLAR API KEY
             String units = "metric";
             String lang = "pt_br";
             String charset = StandardCharsets.UTF_8.name();
