@@ -20,6 +20,8 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Link do Netbeans + JDK 8: [Clique aqui](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.htm)
 
 > Link do Glassfish: [Clique aqui](https://javaee.github.io/glassfish/download) (GlassFish 5.0.1 - Web Profile)
+ 
+> Link da API Weather: [Clique aqui](https://openweathermap.org/api) (OpenWeatherMap) 
 
 ---
 
