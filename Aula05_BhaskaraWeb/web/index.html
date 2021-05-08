@@ -1,16 +1,28 @@
-<!DOCTYPE html>
+<!DOCTYPE html>  
 <html>
     <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bhaskara</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            html {
+                font-family: sans-serif;
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
-        
-    <!-- Aqui você monta o formulário que receberá os três valores inteiros (a, b, c) -->
-    <form method="POST" action="XXXX">
-        
-    </form>
-    
+        <h2>Calculadora Bhaskara</h2>
+        <form method="POST" action="bhaskara.jsp">
+            <label>Informe o valor de a: </label>
+            <input type="number" name="valueA" placeholder="Valor de A">
+            <br></br>
+            <label>Informe o valor de b: </label>
+            <input type="number" name="valueB" placeholder="Valor de B">
+            <br></br>
+            <label>Informe o valor de c: </label>
+            <input type="number" name="valueC" placeholder="Valor de C">
+            <br></br>
+            <button class="btn btn-outline-info" type="submit">Calcular</button>
+        </form>
     </body>
 </html>
