@@ -5,6 +5,7 @@
 
 Este repositório será utilizado para compor todos códigos + links da discplina acima e manter tudo organizado.
 
+
 ---
 
 ### :pushpin: Atividades
@@ -26,6 +27,16 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Link do Glassfish: [Clique aqui](https://javaee.github.io/glassfish/download) (GlassFish 5.0.1 - Web Profile)
  
 > Link da API Weather: [Clique aqui](https://openweathermap.org/api) (OpenWeatherMap) 
+
+---
+
+### :pushpin: Informações JAVADB Projeto
+> JavaDBNome do Banco: SisAcademic
+
+> JavaDB Usuario: uninove
+
+> JavaDB Password: Senha123
+
 
 ---
 
