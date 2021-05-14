@@ -9,8 +9,10 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ### :pushpin: Atividades
 > Status da [Atividade 01](https://docs.google.com/forms/d/e/1FAIpQLSfdbcqTFhJXktfenVnjVm9UoOb4TtGbk5jOUV3pUjtWi3igvQ/alreadyresponded): Entregue :heavy_check_mark:
-> 
+
 > Status da [Atividade 02](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfRz3tZYdvuUov4SPI_0qjn8BSFJBo6HnxvwqQeyZ3Cq7ObCw/alreadyresponded?usp=send_form): Entregue :heavy_check_mark:
+
+> Status da [Atividade 03](): Entregue :heavy_check_mark:
 
 ---
 
