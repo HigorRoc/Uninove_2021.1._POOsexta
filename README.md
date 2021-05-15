@@ -5,15 +5,16 @@
 
 Este repositório será utilizado para compor todos códigos + links da discplina acima e manter tudo organizado.
 
-
 ---
 
-### :pushpin: Atividades
+### :pushpin: Atividades e Arquivos
 > Status da [Atividade 01](https://docs.google.com/forms/d/e/1FAIpQLSfdbcqTFhJXktfenVnjVm9UoOb4TtGbk5jOUV3pUjtWi3igvQ/alreadyresponded): Entregue :heavy_check_mark:
 
 > Status da [Atividade 02](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfRz3tZYdvuUov4SPI_0qjn8BSFJBo6HnxvwqQeyZ3Cq7ObCw/alreadyresponded?usp=send_form): Entregue :heavy_check_mark:
 
 > Status da [Atividade 03](): Entregue :heavy_check_mark:
+
+> Informações JAVADB do [SisAcademic](https://github.com/HigorRoc/Uninove_2021.1_POO/blob/master/.arquivosPOO/DBSisAcademic.sql) :heavy_check_mark:
 
 ---
 
@@ -27,20 +28,6 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Link do Glassfish: [Clique aqui](https://javaee.github.io/glassfish/download) (GlassFish 5.0.1 - Web Profile)
  
 > Link da API Weather: [Clique aqui](https://openweathermap.org/api) (OpenWeatherMap) 
-
----
-
-### :pushpin: Informações JAVADB Projeto
-> JavaDBNome do Banco: SisAcademic
-
-> JavaDB Usuario: uninove
-
-> JavaDB Password: Senha123
-
-### :pushpin: Tabelas JAVADB Projeto
-> CREATE TABLE "tb_curso" ("idCurso" INT NOT NULL PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1), "nome_curso" VARCHAR(90), "tipo_curso" VARCHAR(50));
-
-> CREATE TABLE "tb_aluno" ("idAluno" INT NOT NULL PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1), "ra" INT NOT NULL, "nome" VARCHAR(100), "idCurso" INT, CONSTRAINT fk_aluno_curso FOREIGN KEY ("idCurso") REFERENCES "tb_curso");
 
 ---
 
