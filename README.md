@@ -14,7 +14,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 > Status da [Atividade 03](): Entregue :heavy_check_mark:
 
-> Status da [Atividade 04](): Em andamento
+> Status da [Atividade 04](): Em andamento :heavy_check_mark:
 
 > Informações JAVADB do [SisAcademic](https://github.com/HigorRoc/Uninove_2021.1_POO/blob/master/.arquivosPOO/DBSisAcademic.sql) :heavy_check_mark:
 
