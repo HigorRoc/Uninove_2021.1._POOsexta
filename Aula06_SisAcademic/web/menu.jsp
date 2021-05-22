@@ -1,5 +1,13 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
+<!-- 
+C reate
+R ead
+U pdate
+D delete
+-->
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -38,10 +46,10 @@
                     </li>
                 </ul>
                 <span class="navbar-text nav-item d-flex" active>
-                    <!--PARAMOS AQUI -->
                     <a class="nav-item nav-link" href="#">Encerrar Sessão</a>
                 </span>
             </div>
         </nav>
     </body>
 </html>
+
