@@ -31,8 +31,8 @@ D delete
                             Relatórios
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Alunos</a>
-                            <a class="dropdown-item" href="#">Cursos</a>
+                            <a class="dropdown-item" href="<%=request.getContextPath()%>/relatorios/alunos.jsp">Alunos</a>
+                            <a class="dropdown-item" href="<%=request.getContextPath()%>/relatorios/cursos.jsp">Cursos</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">

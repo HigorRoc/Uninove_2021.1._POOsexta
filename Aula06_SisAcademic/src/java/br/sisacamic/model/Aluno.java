@@ -9,8 +9,7 @@ public class Aluno {
     private Curso curso;
     
     //Construtores
-    public Aluno() {
-    }
+    public Aluno() {}
 
     public Aluno(int idAluno, int ra, String nomeAluno, Curso curso) {
         this.idAluno = idAluno;

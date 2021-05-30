@@ -8,8 +8,7 @@ public class Curso {
     private String tipoCurso;
     
     //Construtores
-    public Curso() {
-    }
+    public Curso() {}
 
     public Curso(int idCurso, String nomeCurso, String tipoCurso) {
         this.idCurso = idCurso;
